@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.amazon.com/Controller-Charger-Charging-Playstation4-Indicators/dp/B0878XD7XR/ref=rtpb_2/135-0005938-1723327?_encoding=UTF8&pd_rd_i=B0878XD7XR&pd_rd_r=5a4f10bc-c3c4-461f-8490-62759dd3ceba&pd_rd_w=6Y5UB&pd_rd_wg=diFbU&pf_rd_p=49740592-2805-416d-896c-b825ad91c2cf&pf_rd_r=HSRPF3904FDSYGSNFE1S&psc=1&refRID=HSRPF3904FDSYGSNFE1S"
+}
